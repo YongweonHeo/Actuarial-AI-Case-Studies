@@ -1,6 +1,23 @@
 2025
 ---
 <br>
+** ### Title:Temporal GNN Regression: Policy Loan Balance Forecasting ** 
+  - **Author:Yongweon Heo  
+  - **Date Added: 2025-07-15  
+  - **Resources:[GitHub (Model Reference), Notebook  ](https://github.com/IAA-AITF/WS3-Private-Working-Repository/blob/main/collecting-housing-case-studies/Files/full_gnn_policy_loan_pipeline.ipynb)
+  -             [GitHub (Model Reference), Notebook  ](https://github.com/IAA-AITF/WS3-Private-Working-Repository/blob/main/collecting-housing-case-studies/Files/gnn_policy_loan_balance_prediction.ipynb)
+  - **Type:Case Study / Template  
+  - **Level: 🟨🟨⬜ Advanced  
+  - **Primary Topics:Temporal Graph Neural Networks, Regression  
+  - **Secondary Topics:Time Series, Feature Engineering, Financial Forecasting  
+  - **Language(s):English  
+  - **Programming Language(s):Python (PyTorch Geometric, Pandas, NumPy)  
+  - **Methods and/or Models: GAT, LSTM, Attention, TemporalData (PyTorch Geometric)  
+  - **AI Control Cycle:Forecasting  
+  - **Notes:-  
+  - **Abstract/Summary:**
+    This Jupyter Notebook demonstrates a step-by-step process to prepare borrower-level temporal data for Graph Neural Network (GNN) modeling using PyTorch Geometric. The use case focuses on forecasting the balance rate of policy loans, a key assumption required under IFRS17 Best Estimate Liabilities (BEL) calculation. The data consists of 1,000 synthetic borrowers over a 24-month period, with features such as credit score and utilization rate.
+The notebook covers the full preprocessing pipeline  
 
 ### RL-Insure: A Reinforcement Learning-Based Framework for Dynamic Insurance Premium Optimization  
 - **Author:** Md Tohidul Islam, Abu Sadat Mohammad Shaker, Hritika Barua, Uland Rozario, M. F. Mridha, Md. Jakir Hossen, Jungpil Shin  
